@@ -12,4 +12,4 @@ Maze Studio is a **free**, **reliable**, and **refined** multimedia app designed
 
 Developed with passion by **Maze Studios**
 
-📅 Current version: `1.0.0`
+📅 Current version: `1.0.1`
